@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+logs.log
+*.sqlite
+storage/*.sqlite
+storage/schost/*.jpg
+storage/schost/*.png
+schostclient/.vs/
+schostclient/out/
+client/log.csv
+client/log.pdf
+
